@@ -13,6 +13,7 @@ class Calculator {
     get e() {
         return `Euler's number (${this.E})`;
     }
+    
     //methods
 }
 
